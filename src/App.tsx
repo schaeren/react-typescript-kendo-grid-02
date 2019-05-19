@@ -34,7 +34,7 @@ interface AppState {
 }
 
 class App extends Component<AppProps, AppState> {
-  private appName: string = 'My first app with React, TypeScript, KendoReact Grid';
+  private appName: string = 'My second app with React, TypeScript, KendoReact Grid';
 
   constructor(props: AppProps) {
     super(props);
