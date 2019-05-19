@@ -1,0 +1,15 @@
+npx create-react-app react-typescript-kendo-grid-01 --typescript
+
+cd react-typescript-kendo-grid-01
+
+npm install
+
+npm install @progress/kendo-react-grid
+npm install @progress/kendo-data-query
+npm install @progress/kendo-react-animation
+npm install @progress/kendo-react-dateinputs
+npm install @progress/kendo-react-dropdowns
+npm install @progress/kendo-react-inputs
+npm install @progress/kendo-react-intl
+npm install @progress/kendo-theme-default
+
